@@ -4,4 +4,5 @@ This repository includes the following files:
 3. Picture 1.png, Picture.png, Picture 12.png, Picture 155.png: figures used in the report.
 4. Raw Data for report.csv: the raw data used to calculate CP value, performance scores, upgrade cost per core, and cumulative cost per core.
 5. Statistics.xlsx: the full analysis supporting the report.
+
 The report is easy to read and requires only a basic understanding of mathematics.
