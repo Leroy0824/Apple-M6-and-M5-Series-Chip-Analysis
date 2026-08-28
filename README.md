@@ -6,3 +6,5 @@ This repository includes the following files:
 5. Statistics.xlsx: the full analysis supporting the report.
 
 The report is easy to read and requires only a basic understanding of mathematics.
+
+NPU performance is not considered in the report because it is not usually a major factor, most demanding tasks don’t run on an NPU, the capabilities of local AI are much smaller than cloud AI, and the safety of local AI is also a consideration. CPU, GPU, RAM, and SSD storage are usually more important.
